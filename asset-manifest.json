@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Nikita-Singh123/Cart-Application.git/static/css/main.cb0c28ab.chunk.css",
+    "main.js": "/Nikita-Singh123/Cart-Application.git/static/js/main.10f2759b.chunk.js",
+    "main.js.map": "/Nikita-Singh123/Cart-Application.git/static/js/main.10f2759b.chunk.js.map",
+    "runtime-main.js": "/Nikita-Singh123/Cart-Application.git/static/js/runtime-main.b2e953db.js",
+    "runtime-main.js.map": "/Nikita-Singh123/Cart-Application.git/static/js/runtime-main.b2e953db.js.map",
+    "static/css/2.a3da14a2.chunk.css": "/Nikita-Singh123/Cart-Application.git/static/css/2.a3da14a2.chunk.css",
+    "static/js/2.55385050.chunk.js": "/Nikita-Singh123/Cart-Application.git/static/js/2.55385050.chunk.js",
+    "static/js/2.55385050.chunk.js.map": "/Nikita-Singh123/Cart-Application.git/static/js/2.55385050.chunk.js.map",
+    "index.html": "/Nikita-Singh123/Cart-Application.git/index.html",
+    "precache-manifest.abd578397a57dd33ea0e960dc64e7fb7.js": "/Nikita-Singh123/Cart-Application.git/precache-manifest.abd578397a57dd33ea0e960dc64e7fb7.js",
+    "service-worker.js": "/Nikita-Singh123/Cart-Application.git/service-worker.js",
+    "static/css/2.a3da14a2.chunk.css.map": "/Nikita-Singh123/Cart-Application.git/static/css/2.a3da14a2.chunk.css.map",
+    "static/css/main.cb0c28ab.chunk.css.map": "/Nikita-Singh123/Cart-Application.git/static/css/main.cb0c28ab.chunk.css.map",
+    "static/js/2.55385050.chunk.js.LICENSE": "/Nikita-Singh123/Cart-Application.git/static/js/2.55385050.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2e953db.js",
+    "static/css/2.a3da14a2.chunk.css",
+    "static/js/2.55385050.chunk.js",
+    "static/css/main.cb0c28ab.chunk.css",
+    "static/js/main.10f2759b.chunk.js"
+  ]
+}
